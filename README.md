@@ -3,10 +3,10 @@
 ### Snapshots
   ![](snaps/1.jpeg)
   
- - react icons
+ - With React icons
   ![](snaps/2.jpeg)
   
- - popup
+ - With custom pop-up
   ![](snaps/4.jpeg)
   
   ### Resposive
